@@ -70,8 +70,8 @@ When a user asks a question, PaperLens retrieves relevant information through a 
 | Sparse Retrieval | BM25 |
 | Retrieval Strategy | Hybrid Search |
 | Reranking | Reranker |
-| LLM | Llama 3.3 70B Instruct |
-| LLM API | OpenRouter |
+| LLM | GPT-OSS 120B |
+| LLM API | Groq API |
 
 ---
 
