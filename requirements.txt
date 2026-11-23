@@ -1,0 +1,9 @@
+
+streamlit
+pymupdf
+chromadb
+sentence-transformers
+rank-bm25
+python-dotenv
+google-genai
+groq
